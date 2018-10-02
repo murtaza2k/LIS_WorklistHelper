@@ -1,0 +1,14 @@
+c:\users\murtaza.ali\documents\visual studio 2012\Projects\LIS_WorklistHelper\LIS_WorklistHelper\bin\Debug\LIS_WorklistHelper.exe.config
+c:\users\murtaza.ali\documents\visual studio 2012\Projects\LIS_WorklistHelper\LIS_WorklistHelper\obj\Debug\LIS_WorklistHelper.Form1.resources
+c:\users\murtaza.ali\documents\visual studio 2012\Projects\LIS_WorklistHelper\LIS_WorklistHelper\obj\Debug\LIS_WorklistHelper.Properties.Resources.resources
+c:\users\murtaza.ali\documents\visual studio 2012\Projects\LIS_WorklistHelper\LIS_WorklistHelper\obj\Debug\LIS_WorklistHelper.csproj.GenerateResource.Cache
+c:\users\murtaza.ali\documents\visual studio 2012\Projects\LIS_WorklistHelper\LIS_WorklistHelper\obj\Debug\LIS_WorklistHelper.exe.licenses
+c:\users\murtaza.ali\documents\visual studio 2012\Projects\LIS_WorklistHelper\LIS_WorklistHelper\bin\Debug\LIS_WorklistHelper.exe
+c:\users\murtaza.ali\documents\visual studio 2012\Projects\LIS_WorklistHelper\LIS_WorklistHelper\bin\Debug\LIS_WorklistHelper.pdb
+c:\users\murtaza.ali\documents\visual studio 2012\Projects\LIS_WorklistHelper\LIS_WorklistHelper\obj\Debug\LIS_WorklistHelper.exe
+c:\users\murtaza.ali\documents\visual studio 2012\Projects\LIS_WorklistHelper\LIS_WorklistHelper\obj\Debug\LIS_WorklistHelper.pdb
+c:\users\murtaza.ali\documents\visual studio 2012\Projects\LIS_WorklistHelper\LIS_WorklistHelper\obj\Debug\LIS_WorklistHelper.frmWorklist.resources
+C:\Users\murtaza.ali\documents\visual studio 2012\Projects\LIS_WorklistHelper\LIS_WorklistHelper\bin\Debug\XML\servers.xml
+C:\Users\murtaza.ali\documents\visual studio 2012\Projects\LIS_WorklistHelper\LIS_WorklistHelper\bin\Debug\AutoMapper.dll
+C:\Users\murtaza.ali\documents\visual studio 2012\Projects\LIS_WorklistHelper\LIS_WorklistHelper\obj\Debug\LIS_WorklistHelper.frmLISMaster.resources
+C:\Users\murtaza.ali\documents\visual studio 2012\Projects\LIS_WorklistHelper\LIS_WorklistHelper\obj\Debug\LIS_WorklistHelper.csprojResolveAssemblyReference.cache
